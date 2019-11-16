@@ -1,28 +1,22 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MathGames
+﻿namespace MathGames
 {
     internal class Question
     {
-        public decimal varOne { get; set; }
-        public decimal varTwo { get; set; }
-        public decimal? userInput { get; set; }
-        public decimal correctAnswer { get; set; }
+        public double varOne { get; set; }
+        public double varTwo { get; set; }
+        public double? userInput { get; set; }
+        public double correctAnswer { get; set; }
         public bool isCorrect { get; set; }
 
-        public delegate decimal questionSet(int a, int b);
+        public delegate double questionSet(double a, double b);
 
-        public static questionSet plus = delegate (int a, int b) { return a + b; };
-        public static questionSet minus = delegate (int a, int b) { return a - b; };
-        public static questionSet multiply = delegate (int a, int b) { return a * b; };
-        public static questionSet divide = delegate (int a, int b) { return a / b; };
-        public static questionSet modulus = delegate (int a, int b) { return a % b; };
+        public static questionSet plus = delegate (double a, double b) { return a + b; };
+        public static questionSet minus = delegate (double a, double b) { return a - b; };
+        public static questionSet multiply = delegate (double a, double b) { return a * b; };
+        public static questionSet divide = delegate (double a, double b) { return a / b; };
+        public static questionSet modulus = delegate (double a, double b) { return a % b; };
 
-        public Question(int a, int b, questionSet c)
+        public Question(double a, double b, questionSet c)
         {
             varOne = a;
             varTwo = b;

@@ -1,14 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MathGames
 {
     internal class UserInput
     {
-        internal int numberofQuestions { get; set; }
+        internal static int numberofQuestions { get; set; }
 
         public UserInput()
         {
@@ -18,6 +14,8 @@ namespace MathGames
             Console.WriteLine("3. Multiplication");
             Console.WriteLine("4. Division");
             Console.WriteLine("5. Modulus");
+            numQuestions();
+            getOperator();
         }
 
         internal void getOperator()
@@ -28,26 +26,31 @@ namespace MathGames
                 case ("1"):
                     {
                         new questionBank(numberofQuestions, "plus");
+                        RunGame.currentOperator = "+";
                         break;
                     }
                 case ("2"):
                     {
                         new questionBank(numberofQuestions, "minus");
+                        RunGame.currentOperator = "-";
                         break;
                     }
                 case ("3"):
                     {
                         new questionBank(numberofQuestions, "multiply");
+                        RunGame.currentOperator = "x";
                         break;
                     }
                 case ("4"):
                     {
                         new questionBank(numberofQuestions, "divide");
+                        RunGame.currentOperator = "/";
                         break;
                     }
                 case ("5"):
                     {
                         new questionBank(numberofQuestions, "modulus");
+                        RunGame.currentOperator = "%";
                         break;
                     }
                 default:
@@ -57,6 +60,12 @@ namespace MathGames
                         break;
                     }
             }
+        }
+
+        internal static void numQuestions()
+        {
+            Console.Write("How many questions would you like to answer?: ");
+            numberofQuestions = int.Parse(Console.ReadLine());
         }
     }
 }

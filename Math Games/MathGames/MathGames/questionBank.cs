@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using static MathGames.Question;
 
 namespace MathGames
@@ -12,11 +8,11 @@ namespace MathGames
         internal static int numQuestions { get; set; }
         internal questionSet questionOperator { get; set; }
 
-        internal delegate int nextNumber();
+        internal delegate double nextNumber();
 
         public static Random newRandom = new Random();
         private nextNumber _Next = delegate () { return newRandom.Next(1, 12); };
-        private Question[] qBank { get; set; }
+        public static Question[] qBank { get; set; }
 
         public questionBank(int numQs, string qOperator)
         {
@@ -62,8 +58,8 @@ namespace MathGames
         {
             for (int i = 0; i < numQuestions; i++)
             {
-                int varOne = _Next();
-                int varTwo = _Next();
+                double varOne = _Next();
+                double varTwo = _Next();
                 qBank[i] = new Question(varOne, varTwo, c);
             }
         }
