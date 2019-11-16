@@ -1,5 +1,0 @@
-C:\Users\franc\OneDrive\Documents\GitHub\C# Sample Work\Math Games\MathGames\MathGames\bin\Debug\MathGames.exe.config
-C:\Users\franc\OneDrive\Documents\GitHub\C# Sample Work\Math Games\MathGames\MathGames\bin\Debug\MathGames.exe
-C:\Users\franc\OneDrive\Documents\GitHub\C# Sample Work\Math Games\MathGames\MathGames\bin\Debug\MathGames.pdb
-C:\Users\franc\OneDrive\Documents\GitHub\C# Sample Work\Math Games\MathGames\MathGames\obj\Debug\MathGames.exe
-C:\Users\franc\OneDrive\Documents\GitHub\C# Sample Work\Math Games\MathGames\MathGames\obj\Debug\MathGames.pdb
