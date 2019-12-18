@@ -1,0 +1,7 @@
+C:\Users\franc\OneDrive\Documents\MSSA\ISTA421\Exercises\VectorDistance\VectorDistance\bin\Debug\VectorDistance.exe.config
+C:\Users\franc\OneDrive\Documents\MSSA\ISTA421\Exercises\VectorDistance\VectorDistance\bin\Debug\VectorDistance.exe
+C:\Users\franc\OneDrive\Documents\MSSA\ISTA421\Exercises\VectorDistance\VectorDistance\bin\Debug\VectorDistance.pdb
+C:\Users\franc\OneDrive\Documents\MSSA\ISTA421\Exercises\VectorDistance\VectorDistance\obj\Debug\VectorDistance.csprojAssemblyReference.cache
+C:\Users\franc\OneDrive\Documents\MSSA\ISTA421\Exercises\VectorDistance\VectorDistance\obj\Debug\VectorDistance.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documents\MSSA\ISTA421\Exercises\VectorDistance\VectorDistance\obj\Debug\VectorDistance.exe
+C:\Users\franc\OneDrive\Documents\MSSA\ISTA421\Exercises\VectorDistance\VectorDistance\obj\Debug\VectorDistance.pdb

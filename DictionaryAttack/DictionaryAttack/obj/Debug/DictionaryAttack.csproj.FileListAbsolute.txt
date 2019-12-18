@@ -1,0 +1,6 @@
+C:\Users\franc\OneDrive\Documents\MSSA\ISTA421\Exercises\DictionaryAttack\DictionaryAttack\bin\Debug\DictionaryAttack.exe.config
+C:\Users\franc\OneDrive\Documents\MSSA\ISTA421\Exercises\DictionaryAttack\DictionaryAttack\bin\Debug\DictionaryAttack.exe
+C:\Users\franc\OneDrive\Documents\MSSA\ISTA421\Exercises\DictionaryAttack\DictionaryAttack\bin\Debug\DictionaryAttack.pdb
+C:\Users\franc\OneDrive\Documents\MSSA\ISTA421\Exercises\DictionaryAttack\DictionaryAttack\obj\Debug\DictionaryAttack.csprojAssemblyReference.cache
+C:\Users\franc\OneDrive\Documents\MSSA\ISTA421\Exercises\DictionaryAttack\DictionaryAttack\obj\Debug\DictionaryAttack.exe
+C:\Users\franc\OneDrive\Documents\MSSA\ISTA421\Exercises\DictionaryAttack\DictionaryAttack\obj\Debug\DictionaryAttack.pdb

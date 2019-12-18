@@ -1,0 +1,7 @@
+C:\Users\franc\OneDrive\Documents\MSSA\Playpen\BaseConversion\BaseConversion\bin\Debug\BaseConversion.exe.config
+C:\Users\franc\OneDrive\Documents\MSSA\Playpen\BaseConversion\BaseConversion\bin\Debug\BaseConversion.exe
+C:\Users\franc\OneDrive\Documents\MSSA\Playpen\BaseConversion\BaseConversion\bin\Debug\BaseConversion.pdb
+C:\Users\franc\OneDrive\Documents\MSSA\Playpen\BaseConversion\BaseConversion\obj\Debug\BaseConversion.csprojAssemblyReference.cache
+C:\Users\franc\OneDrive\Documents\MSSA\Playpen\BaseConversion\BaseConversion\obj\Debug\BaseConversion.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documents\MSSA\Playpen\BaseConversion\BaseConversion\obj\Debug\BaseConversion.exe
+C:\Users\franc\OneDrive\Documents\MSSA\Playpen\BaseConversion\BaseConversion\obj\Debug\BaseConversion.pdb

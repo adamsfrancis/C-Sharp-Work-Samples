@@ -1,0 +1,7 @@
+C:\Users\franc\OneDrive\Documents\MSSA\ISTA421\Exercises\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\franc\OneDrive\Documents\MSSA\ISTA421\Exercises\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\franc\OneDrive\Documents\MSSA\ISTA421\Exercises\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\franc\OneDrive\Documents\MSSA\ISTA421\Exercises\LINQ\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+C:\Users\franc\OneDrive\Documents\MSSA\ISTA421\Exercises\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documents\MSSA\ISTA421\Exercises\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\franc\OneDrive\Documents\MSSA\ISTA421\Exercises\LINQ\LINQ\obj\Debug\LINQ.pdb
